@@ -14,7 +14,7 @@ public class Listing : Activity
         "Your favorite movie",
         "Your top five short term goals",
         "Your top five long term goals",
-        "What’s your secret desire?",
+        "What's your secret desire?",
         "Hobbies you want to try",
         "Random acts of kindness you can do for others"
     };
